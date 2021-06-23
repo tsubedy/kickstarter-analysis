@@ -1,4 +1,4 @@
 # kickstarter-analysis
 Kickstarter excel analysis
 
-This file contains my kickstart analysis
+The analysis is uploaded as a Word Document as per instruction
